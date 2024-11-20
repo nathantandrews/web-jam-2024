@@ -4,4 +4,4 @@ function getCurrentDate()
     return d;
 }
 
-alert("Hello World, Today is: " + getCurrentDate().getDay());
+console.log("Hello World, Today is: " + getCurrentDate());
